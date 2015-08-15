@@ -3,11 +3,11 @@ class Sahi
 
 	def browser
 		@browser ||= "firefox"
-		browser.to_sym
+		@browser.to_sym
 	end
 
 	def browser=(val)
-		self.browser = val
+		@browser = val
 	end
 
 	def driver
