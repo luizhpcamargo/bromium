@@ -1,3 +1,3 @@
 Bromium, the next element for web browser automation
 
-Br ¯\_(ツ)_/¯ 
+Br ¯\\\_(ツ)_/¯ 
